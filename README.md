@@ -1,5 +1,16 @@
 [![Reference Status](https://www.versioneye.com/objective-c/reachability/reference_badge.svg?style=flat)](https://www.versioneye.com/objective-c/reachability/references)
 
+
+#Change log
+###2014-09-22
+
+add 2G / 3G check
+
+
+
+
+
+----
 # Reachability
 
 This is a drop-in replacement for Apple's `Reachability` class. It is ARC-compatible, and it uses the new GCD methods to notify of network interface changes.
